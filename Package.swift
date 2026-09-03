@@ -19,11 +19,11 @@ let package = Package(
     ],
     dependencies: [
         .package(
-            url: "https://github.com/swift-atoms/swift-bit.git",
+            url: "https://github.com/swift-atoms/swift-bit",
             branch: "main"
         ),
         .package(
-            url: "https://github.com/swift-atoms/swift-byte.git",
+            url: "https://github.com/swift-atoms/swift-byte",
             branch: "main"
         ),
     ],
